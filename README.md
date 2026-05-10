@@ -1,52 +1,75 @@
-# A Letter From The Founder of Rankaris
+# Rankaris
 
-I built Rankaris because I believe GEO should be taught through fundamentals, judgment, and practice, not hype. This is the story behind that decision.
+Rankaris is a game-based GEO judgment training product for early-stage founders and website operators.
 
-## Who am I
+We help people build stronger judgment about AI visibility through fundamentals, realistic decisions, and practice, not hype.
 
-I'm SeanG, the creator of Rankaris.
+## Why Rankaris exists
 
-Before Rankaris, I worked at a major technical company as a systems designer focused on AI search for over 2 years. In January 2026, I left that role and became an independent developer.
+Rankaris started from a simple observation:
 
-After leaving, I built several small tools and one game. I believed the tools were useful and the game was fun. But I had zero paying users. My revenue was $0.
+Many people working on GEO do not just have a tooling problem. They have a judgment problem.
 
-That failure forced me to reflect. I realized that my biggest weakness was marketing. I had spent too much time enjoying the process of building products and avoiding market work. I now see that as a form of intellectual laziness.
+They can access dashboards, audits, templates, and tactics, but still do not know:
 
-## Why GEO
+- what to do first
+- what matters now
+- what can wait
+- what is real signal versus GEO busywork
 
-As an AI search engineer, I understood that GEO is now an important part of marketing. GEO was also my professional background. My first idea was to build a GEO SaaS product.
+Rankaris exists to help solve that problem.
 
-While exploring that path, I spent a lot of time on X and other social platforms. I talked with peers, practitioners, and potential customers. During that time, I met people like `@tim_geo_seo` and `@yaojingang`, both of whom are excellent GEO practitioners. I also tested many GEO tools myself.
+Instead of building just another GEO tool, we are building a system that helps early-stage teams develop better GEO fundamentals through active learning and game-like practice.
 
-That experience changed my view of the GEO industry. I realized that the biggest weakness in GEO is not the lack of tools. The bigger problem is that many users of those tools do not understand the basics.
+## What we believe
 
-## What I saw
+- GEO should be taught through fundamentals, judgment, and practice
+- Clear thinking matters more than hype
+- Better judgment helps teams waste less time and avoid low-signal work
+- AI visibility is easier to improve when people understand why a move matters, not just what to click
 
-Many GEO tools promise clear results within days. That promise is misleading. Anyone who has actually done white-hat GEO knows that real progress is slow. GEO is a long-term discipline. If results appear too quickly, either the company was already unusually strong, or the tool is using black-hat methods. Those methods exchange long-term brand reputation for short-term gains.
+## Who Rankaris is for
 
-Many GEO tools promise automatic writing and automatic publishing. That promise sounds attractive because people want convenience. In practice, most fully automated content becomes AI-generated junk. When I worked in AI search, we spent more than half of our time filtering and labeling low-quality information. If too much junk becomes associated with a user or brand, that brand can stop being recommended. As model companies improve their ability to detect AI-generated spam, this strategy becomes increasingly dangerous.
+Rankaris is built for:
 
-Many GEO tools also rely on advanced terms like JSON-LD, Schema, and E-E-A-T to signal expertise. I do not deny that these techniques matter. But the most effective method is usually much simpler. Look at the sources that AI systems already cite. Publish on those same sources. Then make your content 10% better.
+- independent developers
+- small-team founders
+- early-stage website operators
 
-That approach is often more stable than technical tricks because AI search changes very quickly. When I worked in AI search, we shipped major releases every week. The rules changed so often that I sometimes could not remember what the ranking logic looked like a few weeks earlier.
+Especially people who already know AI search matters, but still feel unsure which GEO actions actually deserve priority.
 
-## Why Rankaris
+## What you’ll find here
 
-That is why I changed my original plan. I decided not to build just another GEO tool. Instead, I chose to build a system for training GEO judgment.
+This GitHub presence is part of the public Rankaris entity and knowledge layer.
 
-At the same time, I thought about Codedex, a platform where people learn programming by playing games. That idea stayed with me. Making games is one of the things I enjoy most. For the first time, I found a balance between my professional expertise and the kind of work I truly love.
+Over time, this organization may include:
 
-That's exactly how Rankaris came to be: a website where early-stage founders and website operators build GEO judgment through active learning and game-like practice.
+- public GEO resources
+- examples and sample assets
+- documentation
+- lightweight open-source utilities
+- public learning materials connected to Rankaris
 
-## What I hope
+## Learn more
 
-My goal is simple. If you are an independent developer, a small-team founder, or an early-stage website operator trying to improve AI visibility, I want Rankaris to help you build real GEO fundamentals and sharper GEO judgement.
+- Website: https://rankaris.com/
+- About: https://rankaris.com/learn/about
+- Product Guide: https://rankaris.com/learn/product-guide
+- What is GEO: https://rankaris.com/learn/what-is-geo
+- GEO vs SEO: https://rankaris.com/learn/geo-vs-seo
+- GEO Checklist: https://rankaris.com/learn/ai-search-checklist
+- GEO FAQ: https://rankaris.com/learn/faq
 
-I hope it helps you waste less time, avoid common traps, and become harder to mislead.
+## Follow Rankaris
 
-Remember, the best way to understand GEO is still to practice it yourself. Even so, I hope Rankaris can become a helpful companion along the way.
+- LinkedIn: https://www.linkedin.com/company/rankaris/
+- YouTube: https://www.youtube.com/@Rankaris-geo
+- GitHub Organization: https://github.com/Rankaris
 
-Thanks. Thanks for playing my game.
+## Founder
 
-SeanG  
-April 27, 2026
+Rankaris was created by SeanG, a former systems designer focused on AI search and an independent developer writing about GEO, AI visibility, and practical marketing strategy.
+
+- Founder page: https://rankaris.com/learn/about
+- X: https://x.com/SeanG882
+- LinkedIn: https://www.linkedin.com/in/sean-g-1a52263b9
